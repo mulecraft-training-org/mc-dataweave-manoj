@@ -2,8 +2,8 @@
 #### dataweave function.
 
 Click below to try `addtion` function in DataWeave:
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave/tree/main/functions/addtion&path=functions&addtion"><img width="300" src="[/images/dwplayground-button.png](https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png)">
-<a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave/tree/main/functions/addtion&path=functions&addtion"><img width="300" src="[/images/dwplayground-button.pnghttps://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png](https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.pn)">
+</a>
 Click below to try `subtraction` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave/tree/main/functions/addtion&path=functions&subtraction"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
