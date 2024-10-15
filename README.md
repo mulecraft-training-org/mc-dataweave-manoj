@@ -6,4 +6,4 @@ Click below to try `addtion` function in DataWeave:
 <a>
 Click below to try `subtraction` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave/tree/main/functions/addtion&path=functions&subtraction"><img width="300" src="C:\Users\Manoj T\Desktop\dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave/tree/main/functions/addtion&path=functions&subtraction"><img width="300" src="dwplayground-button.png"></a>
