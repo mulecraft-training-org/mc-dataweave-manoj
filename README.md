@@ -40,4 +40,4 @@ Click below to try `equal to` function in DataWeave:
 
 Click below to try `Equality operator that tries to coerce one value to the type of the other when the types are different` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Equality-operator-that-tries-to-coerce-one-value-to-the-type-of-the-other-when-the-types-are different"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Equality-operator-that-tries-to-coerce-one-value-to-the-type-of-the-other-when-the-types-are-different"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
