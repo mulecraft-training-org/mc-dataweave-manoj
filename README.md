@@ -1,6 +1,6 @@
 # mc-manoj-dataweave
-### dataweave function.
-#### operators
+## Dataweave Function.
+#### Operators
 
 Click below to try `addtion` function in DataWeave:
 
