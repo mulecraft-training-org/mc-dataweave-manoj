@@ -2,5 +2,5 @@
   { 
      "student":"manoj",
     "age": 23,
-    "problem": "good"
+    "good": "age"
   }
