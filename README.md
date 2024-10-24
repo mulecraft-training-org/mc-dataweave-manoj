@@ -1,6 +1,6 @@
 # mc-manoj-dataweave
 ## Dataweave Function
-### Operators
+### OPERATORS
 
 Click below to try `Addtion` function in DataWeave:
 
@@ -45,7 +45,7 @@ Click below to try `Equality operator that tries to coerce one value to the type
 
 
 
-### Reading Data  ###
+### READING DATA
 
 Click below to try `Single Value Selector` function in DataWeave:
 
