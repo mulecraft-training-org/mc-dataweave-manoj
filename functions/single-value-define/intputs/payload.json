@@ -1,6 +1,5 @@
-
   { 
-     "student":"manoj",
+    "student":"manoj",
     "age": 23,
     "good": "age"
   }
