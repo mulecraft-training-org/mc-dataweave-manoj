@@ -2,40 +2,40 @@
 ## Dataweave Function
 ### Operators
 
-Click below to try `addtion` function in DataWeave:
+Click below to try `Addtion` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/addtion"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
 </a>
 
-Click below to try `subtraction` function in DataWeave:
+Click below to try `Subtraction` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/subtraction"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `division` function in DataWeave:
+Click below to try `Division` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/division"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `multiplication` function in DataWeave:
+Click below to try `Multiplication` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/mulitplication"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `greater than` function in DataWeave:
+Click below to try `Greater than` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/greater-than"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `greater than or equal to` function in DataWeave:
+Click below to try `Greater than or equal to` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/greater-than-or-equal-to"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `less than` function in DataWeave:
+Click below to try `Less than` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/less-than"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `less than or equal to` function in DataWeave:
+Click below to try `Less than or equal to` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/less-than-or-equal-to"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
-Click below to try `equal to` function in DataWeave:
+Click below to try `Equal to` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/equal-to"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png"></a>
 
