@@ -64,7 +64,7 @@ Click below to try `Range Selector` function in DataWeave:
 
 Click below to try `Multi Value Selector` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Multi-Value-Selector"><img width="300" src="C:\Users\Manoj T\Downloads\Digital-Playground-Logo-500x281..png">
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Multi-Value-Selector"><img width="300" src="C:\Users\Manoj T\Downloads\Digital-Playground-Logo-500x281.png">
 </a>
 
 Click below to try `Descendants Value Selector` function in DataWeave:
