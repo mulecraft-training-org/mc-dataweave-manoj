@@ -89,7 +89,12 @@ Click below to try `Matching with Literal Values` function in DataWeave:
 
 ### Functions
 
-click below to try `Named Function` function in Dataweave:
+click below to try `Named Function and Lambdas` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Named-Function"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
+</a>
+
+click below to try `Function as value ` function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-manoj-dataweave&path=functions/Function-as-value"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
 </a>
