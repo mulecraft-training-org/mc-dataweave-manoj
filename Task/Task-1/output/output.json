@@ -1,0 +1,36 @@
+{
+  "uniqueEmployee": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "attendance": "Present"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "attendance": "Absent"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "attendance": "Present"
+    }
+  ],
+  "attendance": [
+    "Alice",
+    "Charlie",
+    "Alice"
+  ],
+  "containKeyWord": true,
+  "groupAttendance": {
+    "Present": [
+      "Alice",
+      "Charlie",
+      "Alice"
+    ],
+    "Absent": [
+      "Bob"
+    ]
+  },
+  "employeeNamesJoint": "Alice,Bob,Charlie,Alice"
+}
