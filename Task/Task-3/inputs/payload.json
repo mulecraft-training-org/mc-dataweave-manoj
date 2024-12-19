@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": 1, "name": "Laptop", "price": -1200 },
+    { "id": 2, "name": "Smartphone", "price": 800 },
+    { "id": 3, "name": "Headphones", "price": -200 },
+    { "id": 4, "name": "Smartwatch", "price": 200 }
+  ],
+  "categories": {
+    "electronics": ["Laptop", "Smartphone"],
+    "accessories": ["Headphones", "Smartwatch"]
+  }
+}
