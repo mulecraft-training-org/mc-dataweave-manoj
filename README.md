@@ -164,3 +164,8 @@ click below to try `Task-2` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=Task/Task-2"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
 </a>
+
+click below to try `Task-3` function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=Task/Task-3"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
+</a>
