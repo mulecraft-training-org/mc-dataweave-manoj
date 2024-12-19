@@ -5,7 +5,7 @@ var data = payload.orders
 ---
 {"uniqueOrders": data distinctBy ((item, index) -> item.customer),
 "ordersWithMouse": data filter ((order) -> order.items contains ("Mouse")),
-"orderSummary": data flatMap ((item)-> item.items groupBy $ mapObject ((value, key) -> (key): sizeOf(value) )),
+"orderSummary": data map((item)->(item.items[0]): sizeOf( item.items)),
 "coustomerJoined": data.customer joinBy ","
 }
 
