@@ -1,0 +1,9 @@
+{
+  "orders": [
+    { "orderId": 101, "customer": "Alice", "items": ["Laptop", "Mouse"] },
+    { "orderId": 102, "customer": "Bob", "items": ["Keyboard", "Mouse"] },
+    { "orderId": 103, "customer": "Charlie", "items": ["Monitor"] },
+    { "orderId": 104, "customer": "Alice", "items": ["Laptop"] }
+  ],
+  "search": "Mouse"
+}
