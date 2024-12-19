@@ -1,0 +1,62 @@
+{
+  "uniqueOrders": [
+    {
+      "orderId": 101,
+      "customer": "Alice",
+      "items": [
+        "Laptop",
+        "Mouse"
+      ]
+    },
+    {
+      "orderId": 102,
+      "customer": "Bob",
+      "items": [
+        "Keyboard",
+        "Mouse"
+      ]
+    },
+    {
+      "orderId": 103,
+      "customer": "Charlie",
+      "items": [
+        "Monitor"
+      ]
+    }
+  ],
+  "ordersWithMouse": [
+    {
+      "orderId": 101,
+      "customer": "Alice",
+      "items": [
+        "Laptop",
+        "Mouse"
+      ]
+    },
+    {
+      "orderId": 102,
+      "customer": "Bob",
+      "items": [
+        "Keyboard",
+        "Mouse"
+      ]
+    }
+  ],
+  "orderSummary": [
+    {
+      "Laptop": 1,
+      "Mouse": 1
+    },
+    {
+      "Keyboard": 1,
+      "Mouse": 1
+    },
+    {
+      "Monitor": 1
+    },
+    {
+      "Laptop": 1
+    }
+  ],
+  "coustomerJoined": "Alice,Bob,Charlie,Alice"
+}
