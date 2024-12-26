@@ -162,6 +162,10 @@ click below to try `Days Between` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/daysBetween"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
 </a>
 
+click below to try `Flat Map` function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/FlatMap"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
+</a>
 
 ### TASK
 
