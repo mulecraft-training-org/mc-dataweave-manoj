@@ -1,0 +1,5 @@
+{
+  "present": 2,
+  "notPresent": -1,
+  "moreThanOnePresent": 1
+}
