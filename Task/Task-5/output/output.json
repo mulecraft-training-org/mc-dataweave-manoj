@@ -1,0 +1,15 @@
+{
+  "averageDaysBetweenDelivers": [
+    4,
+    4
+  ],
+  "maxDeliveryDate": "2023-10-12",
+  "falttenedDeliveryDates": [
+    "2023-10-01",
+    "2023-10-05",
+    "2023-10-10",
+    "2023-10-02",
+    "2023-10-06",
+    "2023-10-12"
+  ]
+}
