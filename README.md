@@ -269,7 +269,7 @@ click below to try `Task-6` function in Dataweave:
 
 click below to try `Intreview Task` function in Dataweave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=Task/intreview-task"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=Task/interview-task"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
 </a>
 
 
