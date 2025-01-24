@@ -1,0 +1,19 @@
+{
+  "now": "2025-01-24T08:05:00.293108Z",
+  "nowCalledSpecificTimeZone": "2025-01-24T13:35:00.293111+05:30",
+  "epochTime": 1737705900,
+  "nanoseconds": 293324000,
+  "milliseconds": 293,
+  "seconds": 0,
+  "minutes": 5,
+  "hour": 8,
+  "day": 24,
+  "month": 1,
+  "year": 2025,
+  "quarter": 1,
+  "dayOfWeek": 5,
+  "dayOfYear": 24,
+  "offsetSeconds": 0,
+  "formattedDate": "2025-01-24",
+  "formattedTime": "08:5:0"
+}
