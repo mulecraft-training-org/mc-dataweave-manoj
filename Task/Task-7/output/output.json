@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "totalTransaction": 5,
+    "totalAmount": 10001.5,
+    "averageAmount": 2000.3,
+    "transactionsByCustomer": [
+      {
+        "customerId": 101,
+        "transactionCount": 1,
+        "totalSpent": 1500.75
+      },
+      {
+        "customerId": 102,
+        "transactionCount": 1,
+        "totalSpent": 2500
+      },
+      {
+        "customerId": 103,
+        "transactionCount": 1,
+        "totalSpent": 300.5
+      },
+      {
+        "customerId": 104,
+        "transactionCount": 1,
+        "totalSpent": 4500.25
+      },
+      {
+        "customerId": 105,
+        "transactionCount": 1,
+        "totalSpent": 1200
+      }
+    ]
+  }
+}
