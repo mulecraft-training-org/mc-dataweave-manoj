@@ -1,0 +1,28 @@
+{
+  "manufacturingOrders": [
+    {
+      "orderId": "MO123",
+      "product": "Widget A",
+      "quantity": 100,
+      "status": "completed"
+    },
+    {
+      "orderId": "MO124",
+      "product": "Widget B",
+      "quantity": 200,
+      "status": "in progress"
+    },
+    {
+      "orderId": "MO125",
+      "product": "Widget A",
+      "quantity": 150,
+      "status": "completed"
+    },
+    {
+      "orderId": "MO126",
+      "product": "Widget C",
+      "quantity": 50,
+      "status": "completed"
+    }
+  ]
+}
