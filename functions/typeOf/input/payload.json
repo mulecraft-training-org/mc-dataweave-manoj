@@ -1,0 +1,11 @@
+{
+    "string":"clearly a string",
+    "string2":"because",
+    "number": 2334,
+    "boolean1":"because",
+    "boolean2":"because",
+    "object": {
+        "no.of":34
+    },
+    "array":["hi",1]
+}
