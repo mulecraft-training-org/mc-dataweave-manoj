@@ -1,0 +1,10 @@
+{
+     "user": [{
+         "name": "Shubham",
+         "lastName": {
+             "Middle":"",
+             "Last":"Chaurasia"
+         }
+     }],
+     "group": "dataweave series"
+ }
