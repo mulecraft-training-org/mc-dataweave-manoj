@@ -1,0 +1,34 @@
+{
+  "Employee": [
+    {
+      "Code": "501-AKASH",
+      "Age": "26",
+      "Salary": [
+        {
+          "Base": "330000"
+        }
+      ],
+      "Date": {
+        "Joining": "26/10/2020"
+      },
+      "Billed": [
+        "NO"
+      ]
+    },
+    {
+      "Code": "502-PRIYA",
+      "Age": "30",
+      "Salary": [
+        {
+          "Base": "200000"
+        }
+      ],
+      "Date": {
+        "Joining": "26/10/2022"
+      },
+      "Billed": [
+        "YES"
+      ]
+    }
+  ]
+}
