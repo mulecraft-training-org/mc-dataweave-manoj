@@ -1,0 +1,31 @@
+{
+  "splitters": {
+    "split1": [
+      "a",
+      "b",
+      "c"
+    ],
+    "split2": [
+      "h",
+      "e",
+      "l",
+      "l",
+      "o",
+      " ",
+      "w",
+      "o",
+      "r",
+      "l",
+      "d"
+    ],
+    "split3": [
+      "first",
+      "middle",
+      "last"
+    ],
+    "split4": [
+      "",
+      " split"
+    ]
+  }
+}
