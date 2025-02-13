@@ -1,0 +1,9 @@
+{
+  "chainResult": 17,
+  "referenceResult": {
+    "name": "MARIANO",
+    "lastName": "DE ACHAVAL",
+    "length": 2
+  },
+  "onNullReturnNull": null
+}
