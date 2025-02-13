@@ -1,0 +1,25 @@
+{
+  "new": {
+    "v1": [
+      [
+        "anypt@mulesoft.com",
+        "anypt",
+        "mulesoft"
+      ]
+    ],
+    "v2": [
+      [
+        "max@mulesoft",
+        "",
+        "ax",
+        "mulesoft"
+      ],
+      [
+        ".com",
+        "",
+        "co",
+        ""
+      ]
+    ]
+  }
+}
