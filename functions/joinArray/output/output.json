@@ -1,0 +1,42 @@
+[
+  {
+    "l": {
+      "id": "101",
+      "name": "Ava"
+    },
+    "r": {
+      "ownerId": "101",
+      "name": "SmartGizmo"
+    }
+  },
+  {
+    "l": {
+      "id": "102",
+      "name": "Ethan"
+    },
+    "r": {
+      "ownerId": "102",
+      "name": "TechPulse"
+    }
+  },
+  {
+    "l": {
+      "id": "103",
+      "name": "Sophia"
+    },
+    "r": {
+      "ownerId": "103",
+      "name": "GreenEco"
+    }
+  },
+  {
+    "l": {
+      "id": "104",
+      "name": "Mason"
+    },
+    "r": {
+      "ownerId": "104",
+      "name": "BioStream"
+    }
+  }
+]
