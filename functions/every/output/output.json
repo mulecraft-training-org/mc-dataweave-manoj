@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "ok": [
+        true,
+        true
+      ]
+    },
+    {
+      "err": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  ]
+}
