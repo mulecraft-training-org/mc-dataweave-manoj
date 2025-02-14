@@ -1,0 +1,14 @@
+{
+  "users": [
+    {"id": "101", "name": "Ava"},
+    {"id": "102", "name": "Ethan"},
+    {"id": "103", "name": "Sophia"},
+    {"id": "104", "name": "Mason"}
+  ],
+  "products": [
+    {"ownerId": "101", "name": "SmartGizmo"},
+    {"ownerId": "102", "name": "TechPulse"},
+    {"ownerId": "103", "name": "GreenEco"},
+    {"ownerId": "104", "name": "BioStream"}
+  ]
+}
