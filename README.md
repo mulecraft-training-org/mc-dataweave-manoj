@@ -520,5 +520,5 @@ click below to try `slice` function in Dataweave:
 
 click below to try `some` function in Dataweave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/some"><img width="300" src="https://github.com/Harsha-0/dataweave-functions/raw/main/images/dwplayground-button.png">
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/some"><img width="300" <img src="https://via.placeholder.com/150" alt="Placeholder Button" width="250" height="150" style="border-radius: 15px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);" />
 </a>
