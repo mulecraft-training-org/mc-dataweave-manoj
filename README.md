@@ -521,14 +521,6 @@ click below to try `slice` function in Dataweave:
 click below to try `some` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/some"><button style="border: none; padding: 0; background-color: transparent; cursor: pointer;">
-  <img src="https://via.placeholder.com/150" alt="Placeholder Button" width="150" height="150" style="border-radius: 10px; transition: background-color 0.3s, transform 0.3s ease-in-out;">
-</button>
-
-<style>
-  button:hover img {
-    background-color: rgba(255, 87, 34, 0.4); /* Orange background with transparency */
-    transform: scale(1.05); /* Slightly enlarge the image when hovered */
-  }
-</style>
+<img width="300" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image.png">
 
 </a>
