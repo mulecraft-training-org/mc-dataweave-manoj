@@ -542,3 +542,8 @@ click below to try `Take` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/take-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image2.png">
 </a>
+
+click below to try `Take While` function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/takeWhile-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image2.png">
+</a>
