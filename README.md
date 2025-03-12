@@ -520,7 +520,7 @@ click below to try `slice` function in Dataweave:
 
 click below to try `some` function in Dataweave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/some"><button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/some"><button style="padding: 10px 20px; font-size: 16px; background-color: #4CAF50; color: blue; border: white; border-radius: 5px;">
   Click Me
 </button>
 
