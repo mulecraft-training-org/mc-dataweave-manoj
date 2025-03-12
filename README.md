@@ -1,4 +1,4 @@
-f# mc-manoj-dataweave
+# mc-manoj-dataweave
 ## Dataweave Function
 ### OPERATORS
 
