@@ -528,12 +528,12 @@ click below to try `splitAt` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/splitAt-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image2.png">
 </a>
 
-click below to try `splitWhere-array` function in Dataweave:
+click below to try `splitWhere` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/splitWhere-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image2.png">
 </a>
 
-click below to try `splitWhere-array` function in Dataweave:
+click below to try `sumBy` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-manoj-dataweave&path=functions/sumBy-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/image2.png">
 </a>
