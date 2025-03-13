@@ -1,6 +1,6 @@
 # mc-dataweave-manoj
 ## Dataweave Function
-### OPERATORS
+### **OPERATORS**
 
 Click below to try `Addtion` function in DataWeave:
 
@@ -45,7 +45,7 @@ Click below to try `Equality operator that tries to coerce one value to the type
 
 
 
-### READING DATA
+### **READING DATA**
 
 Click below to try `Single Value Selector` function in DataWeave:
 
@@ -73,7 +73,7 @@ Click below to try `Descendants Value Selector` function in DataWeave:
 </a>
 
 
-###  Flow Control
+###  **Flow Control**
 
 Click below to try `If Else` function in DataWeave:
 
@@ -87,7 +87,7 @@ Click below to try `Matching with Literal Values` function in DataWeave:
 </a>
 
 
-### Functions
+### **Functions**
 
 click below to try `Named Function and Lambdas` function in Dataweave:
 
@@ -99,7 +99,7 @@ click below to try `Function as value ` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-dataweave-manoj&path=functions/Functions-as-Values">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### dw::Core
+### ***dw::Core***
 
 click below to try `Concatenates` function in Dataweave:
 
@@ -117,7 +117,7 @@ click below to try `Remove` function in Dataweave:
 </a>
 
 
- ### Part-1
+ ### *Part-1*
  
 click below to try `DistinctBy` function in Dataweave:
 
@@ -155,7 +155,7 @@ click below to try `JoinBy` function in Dataweave:
 </a>
 
 
-### TASK(part-1)
+### *TASK(part-1)*
 
 click below to try `Task-1` function in Dataweave:
 
@@ -173,7 +173,7 @@ click below to try `Task-3` function in Dataweave:
 </a>
 
 
-### Part-2
+### *Part-2*
 
 click below to try `Average` function in Dataweave:
 
@@ -250,7 +250,7 @@ click below to try `Last IndexOf` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/lastIndexOf">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### TASK (part-2)
+### *TASK (part-2)*
 
 click below to try `Task-4` function in Dataweave:
 
@@ -273,7 +273,7 @@ click below to try `Intreview Task` function in Dataweave:
 </a>
 
 
-### Part - 3
+### *Part - 3*
 
 click below to try `isEmpty` function in Dataweave:
 
@@ -351,14 +351,14 @@ click below to try `random` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/random">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### TASK(part-3)
+### *TASK(part-3)*
 
 click below to try `Task-7` function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=Task/Task-7">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### Part - 4
+### *Part - 4*
 
 click below to try `randomInt` function in Dataweave:
 
@@ -460,7 +460,7 @@ click below to try `Zip` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/zip">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### dw::core::Arrays
+### ***dw::core::Arrays***
 
 click below to try `Count By` function in Dataweave:
 
@@ -548,7 +548,7 @@ click below to try `Take While` function in Dataweave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/takeWhile-array"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-### dw::core::Binaries
+### ***dw::core::Binaries***
 
 click below to try `Concat With` function in Dataweave:
 
