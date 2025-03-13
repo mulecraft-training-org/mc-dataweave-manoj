@@ -2,7 +2,7 @@
 ## Dataweave Function
 ### **OPERATORS**
 
-Click below to try `Addtion` function in DataWeave:
+Click below to try `<ins>Addtion</ins>` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/addtion">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
