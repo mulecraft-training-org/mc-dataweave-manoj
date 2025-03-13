@@ -2,20 +2,20 @@
 ## Dataweave Function
 ### **OPERATORS**
 
-Click below to try <ins>Addtion</ins> function in DataWeave:
+Click below to try <ins>Addition</ins> function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/addtion">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
-Click below to try `Subtraction` function in DataWeave:
+Click below to try <ins>Subtraction</ins> function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/subtraction">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png"></a>
 
-Click below to try `Division` function in DataWeave:
+Click below to try <ins>Division</ins> function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/division">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png"></a>
 
-Click below to try `Multiplication` function in DataWeave:
+Click below to try <ins>Multiplication</ins> function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=functions/mulitplication">  <img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png"></a>
 
