@@ -663,7 +663,7 @@ click below to try <ins>toBinary</ins> function in Dataweave:
 
 click below to try <ins>toHex</ins> function in Dataweave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-number/to-hex"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-number/to-Hex"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
 
 click below to try <ins>toRadixNumber</ins> function in Dataweave:
