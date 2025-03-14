@@ -1,6 +1,6 @@
 # **mc-dataweave-manoj**
 ## Dataweave Function
-### **OPERATORS**
+### **Operators**
 
 Click below to try <ins>Addition</ins> function in DataWeave:
 
