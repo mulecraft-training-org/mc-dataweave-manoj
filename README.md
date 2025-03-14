@@ -607,3 +607,8 @@ click below to try <ins>atTheBeginsOfWeek</ins> function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-date/at-beginnin-of-week"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
+
+click below to try <ins>atTheBeginsOfYear</ins> function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-date/at-beginning-of-year"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
+</a>
