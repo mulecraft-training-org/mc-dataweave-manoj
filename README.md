@@ -718,3 +718,10 @@ click below to try <ins>valueSet</ins> function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-objects/valueSet"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
+
+###***dw::core::string***
+
+click below to try <ins>appendIfMissing</ins> function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-string/appendIfMissing"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
+</a>
