@@ -1,0 +1,22 @@
+{
+  "projects": {
+    "project1": {
+      "name": "AI-driven Chatbot",
+      "deadline": "2025-12-31",
+      "status": "In Progress",
+      "team": {
+        "member": null,
+        "member": null
+      }
+    },
+    "project2": {
+      "name": "Cloud Migration",
+      "deadline": "2024-06-30",
+      "status": "Completed",
+      "team": {
+        "member": null
+      }
+    }
+  },
+"merge":{ "a" : true, "b" : 1},
+"with":{ "a" : false, "c" : "Test"} }
