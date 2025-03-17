@@ -670,3 +670,11 @@ click below to try <ins>toRadixNumber</ins> function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-number/to-radix-number"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
+
+### ***dw::core::objects***
+
+
+click below to try <ins>divideBy</ins> function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-on=bjects/divideBy"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
+</a>
