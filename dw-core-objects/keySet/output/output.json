@@ -1,0 +1,22 @@
+{
+  "address": [
+    "street",
+    "city",
+    "zip"
+  ],
+  "key": [
+    "address",
+    "employees",
+    "projects"
+  ],
+  "projects": [
+    "member",
+    "member"
+  ],
+  "project": [
+    "name",
+    "deadline",
+    "status",
+    "team"
+  ]
+}
