@@ -678,3 +678,8 @@ click below to try <ins>divideBy</ins> function in Dataweave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-objects/divideBy"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
 </a>
+
+click below to try <ins>entriesOf</ins> function in Dataweave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-dataweave-manoj&path=dw-core-objects/entriesOf"><img width="200" src="https://github.com/mulecraft-training-org/mc-dataweave-manoj/blob/main/images/click.drawio.png">
+</a>
