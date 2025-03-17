@@ -1,0 +1,54 @@
+<company name="Tech Innovators" founded="2005">
+    <address>
+        <street>Main Street 123</street>
+        <city>Innovate City</city>
+        <zip>12345</zip>
+    </address>
+    <employees>
+        <employee id="E001">
+            <name>John Doe</name>
+            <position>Software Engineer</position>
+            <skills>
+                <skill>Java</skill>
+                <skill>Python</skill>
+                <skill>REST APIs</skill>
+            </skills>
+            <contact>
+                <email>johndoe@example.com</email>
+                <phone>123-456-7890</phone>
+            </contact>
+        </employee>
+        <employee id="E002">
+            <name>Jane Smith</name>
+            <position>Data Scientist</position>
+            <skills>
+                <skill>Machine Learning</skill>
+                <skill>Python</skill>
+                <skill>Data Visualization</skill>
+            </skills>
+            <contact>
+                <email>janesmith@example.com</email>
+                <phone>987-654-3210</phone>
+            </contact>
+        </employee>
+    </employees>
+    <projects>
+        <project id="P001">
+            <name>AI-driven Chatbot</name>
+            <deadline>2025-12-31</deadline>
+            <status>In Progress</status>
+            <team>
+                <member id="E001" role="Developer" />
+                <member id="E002" role="Data Analyst" />
+            </team>
+        </project>
+        <project id="P002">
+            <name>Cloud Migration</name>
+            <deadline>2024-06-30</deadline>
+            <status>Completed</status>
+            <team>
+                <member id="E002" role="Lead Data Scientist" />
+            </team>
+        </project>
+    </projects>
+</company>
