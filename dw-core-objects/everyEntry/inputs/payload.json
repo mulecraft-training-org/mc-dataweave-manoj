@@ -1,0 +1,54 @@
+{
+  "address": {
+    "street": "Main Street 123",
+    "city": "Innovate City",
+    "zip": "12345"
+  },
+  "employees": {
+    "employee": {
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "skills": {
+        "skill": "Java",
+        "skill": "Python",
+        "skill": "REST APIs"
+      },
+      "contact": {
+        "email": "johndoe@example.com",
+        "phone": "123-456-7890"
+      }
+    },
+    "employee": {
+      "name": "Jane Smith",
+      "position": "Data Scientist",
+      "skills": {
+        "skill": "Machine Learning",
+        "skill": "Python",
+        "skill": "Data Visualization"
+      },
+      "contact": {
+        "email": "janesmith@example.com",
+        "phone": "987-654-3210"
+      }
+    }
+  },
+  "projects": {
+    "project": {
+      "name": "AI-driven Chatbot",
+      "deadline": "2025-12-31",
+      "status": "In Progress",
+      "team": {
+        "member": null,
+        "member": null
+      }
+    },
+    "project": {
+      "name": "Cloud Migration",
+      "deadline": "2024-06-30",
+      "status": "Completed",
+      "team": {
+        "member": null
+      }
+    }
+  }
+}
