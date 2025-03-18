@@ -1,0 +1,7 @@
+{
+  "count": false,
+  "location": false,
+  "companyName": false,
+  "name": true,
+  "id": true
+}
