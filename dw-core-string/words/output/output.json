@@ -1,0 +1,23 @@
+{
+  "a": [
+    "This",
+    "Is",
+    "A",
+    "Hyphenated",
+    "Sentence"
+  ],
+  "b": [
+    "This",
+    "is",
+    "a",
+    "sentence",
+    "with",
+    "spaces."
+  ],
+  "c": [
+    "this",
+    "is",
+    "good",
+    "movie"
+  ]
+}
