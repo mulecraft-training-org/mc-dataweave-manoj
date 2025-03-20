@@ -1,0 +1,6 @@
+[
+  {
+    "a": [10, "apple", [5, 6], {"name": "Alice"}, false],
+    "b": [1, {"name": ["", true], "test": 213}, "123", null]
+  }
+]
