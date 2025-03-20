@@ -1,0 +1,15 @@
+{
+  "output": true,
+  "a": [
+    10,
+    "apple",
+    [
+      5,
+      6
+    ],
+    {
+      "name": "Alice"
+    },
+    false
+  ]
+}
